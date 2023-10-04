@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hossam</h1>
 <h3 align="center">A passionate Cybersecurity engineer / AI developer from Egypt</h3>
 
-- 📫 How to reach me **mois20485@gmail.com**
+<!--- 📫 How to reach me **mois20485@gmail.com**-->
 
 
 
