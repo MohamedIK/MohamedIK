@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/mohamedhossameldeinissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedissa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/FlepoShark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fleposhark" height="30" width="40" /></a>
 
-<h3 align="left"> TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/Theanoknown.png" alt="Your Image Badge" />
+<h3 align="left"> TryHackMe Badge:</h3>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/Theanoknown.png" alt="Your Image Badge" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedIK&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedik" /></p>
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=MohamedIK&show_icons=true&theme=radical" alt="mohamedik" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=MohamedIK&show_icons=true&theme=radical" alt="mohamedik" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedIK&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedik" /> </p>
 
