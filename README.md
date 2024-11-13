@@ -11,7 +11,7 @@
 <a href="https://codeforces.com/profile/FlepoShark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fleposhark" height="30" width="40" /></a>
 
 <h3 align="left"> TryHackMe Badge
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=718859" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Theanoknown.png" alt="Your Image Badge" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
